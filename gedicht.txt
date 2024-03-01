@@ -1,4 +1,4 @@
-De Regenboog en de Eenhoorn
+De Regenboog en de Eenhoorn en Paarden
 
 Rood
 Oranje
@@ -9,4 +9,5 @@ Blauw
 Indigo
 Violet
 Dit zijn de kleuren van de regenboog
-en de eenhoorn.
+en de eenhoorn
+en paarden.
