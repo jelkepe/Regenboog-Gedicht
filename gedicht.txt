@@ -1,10 +1,12 @@
-De Regenboog
+De Regenboog en de Eenhoorn
 
 Rood
 Oranje
 Geel
 Groen
+Eenhoorn
 Blauw
 Indigo
 Violet
-Dit zijn de kleuren van de regenboo.
+Dit zijn de kleuren van de regenboog
+en de eenhoorn.
